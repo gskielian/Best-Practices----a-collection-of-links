@@ -6,7 +6,7 @@ Searching for good resources on best-practices for programming and electronics.
 
 Will be creating folders for each language and categories.
 
-format will be csv files, one for 
+Each best practice will be indexed in a csv file (looking like the one below), and have its own folder with .md file, and example codes.
 
 
 Python:
