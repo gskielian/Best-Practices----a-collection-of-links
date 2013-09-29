@@ -10,7 +10,8 @@ format will be csv files, one for
 
 
 Python:
-```csv
-practice, link
-reading files, http://axialcorps.com/2013/09/27/dont-slurp-how-to-read-files-in-python/
-```
+
+| practice | link |
+| :--- |  ---: |
+| reading files | http://axialcorps.com/2013/09/27/dont-slurp-how-to-read-files-in-python/ |
+
